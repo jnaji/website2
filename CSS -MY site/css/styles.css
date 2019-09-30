@@ -1,0 +1,144 @@
+
+.top-container{background-color: #64b2cd;
+}
+body{
+  color: #393e46;
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  background-color: #d9eeec;
+
+}
+p{
+  line-height: 2;
+}
+hr{
+  border: dotted 6px;
+  border-bottom: none;
+  width: 10%;
+}
+h1{
+  color: #33313b;
+  margin-bottom: 5px;
+  font-size: 562.2% ;
+  font-family: 'Caveat', cursive;
+}
+h2{
+  color: #33313b;
+  margin-top: 10px ;
+  font-size: 2.6rem;
+  font-family: 'Forum', cursive;
+}
+.profile{
+  margin-bottom: 30px;
+}
+.mountain{
+position: relative;
+top: 4px;
+}
+.circle{
+  border-radius: 50%;
+}
+.cloud-top{
+  margin: 50px 0px 0px 400px;
+  position: relative;
+}
+.cloud-bottom{
+  position: absolute;
+}
+.intro{
+  width: 500px;
+  margin: auto;
+}
+.mytrips{
+  margin-top: 40px;
+}
+.trips{
+  width: 750px;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  text-align: justify;
+}
+.middle-container{
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.bottom-container{
+  background-color: #64b2cd;
+  padding: 50px 0 20px;
+  color: #393e46;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+a{
+  color: #393e46;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  margin: auto 10px;
+  text-decoration: inherit;
+}
+a:hover{
+  color: #ffff;
+}
+.copyright{
+  color: #ffff;
+  font-size: 0.6rem;
+  padding: 10px auto auto auto;
+}
+.talk{
+  color: #222222;
+  padding-top: 10px;
+}
+.circle1{
+  width: 200px;
+  height: 200px;
+   float: left;
+   padding-right: 30px;
+}
+.circle2{
+   width: 200px;
+   height: 200px;
+   float: right;
+   padding-left : 30px;
+}
+.contact{
+  width: 700px;
+  margin: auto auto 20px;
+  text-align: center;
+}
+.myButton {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #4991ad), color-stop(1, #51a6c2));
+	background:-moz-linear-gradient(top, #4991ad 5%, #51a6c2 100%);
+	background:-webkit-linear-gradient(top, #4991ad 5%, #51a6c2 100%);
+	background:-o-linear-gradient(top, #4991ad 5%, #51a6c2 100%);
+	background:-ms-linear-gradient(top, #4991ad 5%, #51a6c2 100%);
+	background:linear-gradient(to bottom, #4991ad 5%, #51a6c2 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#4991ad', endColorstr='#51a6c2',GradientType=0);
+	background-color:#4991ad;
+	-moz-border-radius:12px;
+	-webkit-border-radius:12px;
+	border-radius:12px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:7px 19px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #2f6627;
+  margin-bottom: 20px;
+}
+.myButton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #51a6c2), color-stop(1, #4991ad));
+	background:-moz-linear-gradient(top, #51a6c2 5%, #4991ad 100%);
+	background:-webkit-linear-gradient(top, #51a6c2 5%, #4991ad 100%);
+	background:-o-linear-gradient(top, #51a6c2 5%, #4991ad 100%);
+	background:-ms-linear-gradient(top, #51a6c2 5%, #4991ad 100%);
+	background:linear-gradient(to bottom, #51a6c2 5%, #4991ad 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#51a6c2', endColorstr='#4991ad',GradientType=0);
+	background-color:#51a6c2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
